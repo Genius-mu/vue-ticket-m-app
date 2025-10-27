@@ -56,7 +56,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/Genius-mu/vue-ticket-m-app.git
 
 # 2️⃣ Move into the project directory
-cd ticket-management-vue
+cd ticket-app-vue
 
 # 3️⃣ Install dependencies
 npm install
