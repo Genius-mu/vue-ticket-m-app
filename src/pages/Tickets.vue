@@ -1,10 +1,10 @@
 <template>
   <section class="min-h-screen bg-gradient-to-b from-blue-50 to-blue-100 py-10 px-6">
     <div class="flex justify-between items-center mb-8">
-      <h1 class="text-3xl font-bold text-blue-700">Manage Tickets</h1>
+      <h1 class="xl:text-3xl md:text-3xl sm:text-3xl text-xl font-bold text-blue-700">Manage Tickets</h1>
       <RouterLink
         to="/dashboard"
-        class="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg shadow-md"
+        class="bg-blue-600 text-[13px] md:text-[15px] xl:text-[15px] sm:text-[15px] hover:bg-blue-700 text-white px-5 py-2 rounded-lg shadow-md"
       >
         ← Back to Dashboard
       </RouterLink>

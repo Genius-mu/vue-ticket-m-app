@@ -1,7 +1,7 @@
 <template>
   <section class="px-6 py-10 min-h-screen bg-gradient-to-b from-blue-50 to-blue-100">
     <div class="flex justify-between items-center mb-6">
-      <h1 class="text-3xl font-bold text-blue-700">Ticket Dashboard</h1>
+      <h1 class="xl:text-3xl md:text-3xl sm:text-3xl text-xl font-bold text-blue-700">Ticket Dashboard</h1>
       <button @click="logout" class="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg">
         Logout
       </button>
