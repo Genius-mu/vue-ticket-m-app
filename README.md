@@ -53,7 +53,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1️⃣ Clone this repository
-git clone https://github.com/YOUR-USERNAME/ticket-management-vue.git
+git clone https://github.com/Genius-mu/vue-ticket-m-app.git
 
 # 2️⃣ Move into the project directory
 cd ticket-management-vue
